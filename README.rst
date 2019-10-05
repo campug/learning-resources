@@ -18,11 +18,10 @@ Python.**
 
 Whilst I’m not sure how useful I can be with recomendations on learning
 Python, since (a) I did it myself so long ago and since then have “grown with
-it”, and (b) I’m not quite sure what your starting position is (knowledge of
-PL/I, though, should mean Python isn’t likely to have any *huge* surprises for
-you, if I remember rightly), I can definitely try to give some pointers.
+it”, and (b) I’m not quite sure what your starting position is, I can
+definitely try to give some pointers.
 
-The resources I mentioned at CamPUG were:
+As places to start, I often recommend:
 
 * https://tutorial.djangogirls.org/en/ - the Django Girls tutorial (boys are
   allowed to use it, too - it says so in the FAQ). This is *probably* too much
@@ -47,13 +46,6 @@ The resources I mentioned at CamPUG were:
   https://www.obeythetestinggoat.com/book/pre-requisite-installations.html for
   why you might not want to use Python 3.7 *for this book*. He also has some
   recomemndations for other Python tutorials at the start of that section.
-
-By the way, we use Django at work, and although many of the details of how we
-work are different from the book, it’s *likely* that I might be able to help
-if you did work with it and get stuck.
-
-NB: Dive into Python as mentioned at the above link is now at
-https://www.diveinto.org/python3/
 
 * https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas is a
   workbook used for an introduction to Python for Part 1A Engineering students
@@ -106,9 +98,6 @@ an IDE like this can definitely be very helpful. Both have blogs:
 https://blog.jetbrains.com/ (covers PyCharm and their other IDEs) and
 https://blogs.msdn.microsoft.com/pythonengineering/ respectively. For personal
 use, they should both be free.
-
-I hope all of that helps - feel free to come back with more specific
-questions/requests if needs be (although I don’t promise to know the answer!)
 
 Notes from the October 2019 CamPUG meeting
 ==========================================
