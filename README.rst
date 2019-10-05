@@ -107,7 +107,67 @@ Notes from the October 2019 CamPUG meeting
 URLs
 ====
 
-...
+These are the tabs that were opened on my laptop during the October 2019
+Campug Meeting:
+
+
+* `PyCon UK - YouTube`_
+* `pyconuk2019-notes/old-slides.rst at master · tibs/pyconuk2019-notes`_
+* `PyCon UK 2019 : Schedule`_
+* `The Python Challenge`_
+* `Trinket`_
+* `About - Project Euler`_
+* `Advent of Code 2018`_
+* `Python 3 Documentation`_
+* `Visual Studio Code - Code Editing. Redefined`_
+* `Atom`_
+* `Project Jupyter`_
+* `Code With Mu`_
+* `Python Basics Book – Real Python`_
+* `Anvil | Python Web Apps`_
+* `A Brief Tour through Pyodide - Iodide`_
+* `Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books`_
+* `Effective Python › The Book`_
+* `python-idioms-2014-01-16.pdf`_
+* `Python 101: Sets - Scrimba Tutorial`_
+* `Online courses from Raspberry Pi Foundation`_
+* `regex - Adding double quotes to string is giving me incorrect data in Python - Stack Overflow`_
+* `Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution`_
+* `Grok Learning | Learn to code from your browser`_
+* `Projects | Raspberry Pi Projects`_
+* `PyBites – Code Challenge 63 - Automatically Generate Blog Featured Images`_
+* `The Ultimate Code Kata`_
+* `Welcome to Pygame Zero — Pygame Zero 1.2 documentation`_
+
+
+
+.. _`PyCon UK - YouTube`: https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog
+.. _`pyconuk2019-notes/old-slides.rst at master · tibs/pyconuk2019-notes`: https://github.com/tibs/pyconuk2019-notes/blob/master/old-slides.rst
+.. _`PyCon UK 2019 : Schedule`: https://pretalx.com/pyconuk-2019/schedule/
+.. _`The Python Challenge`: http://www.pythonchallenge.com/
+.. _`Trinket`: https://trinket.io/
+.. _`About - Project Euler`: https://projecteuler.net/
+.. _`Advent of Code 2018`: https://adventofcode.com/
+.. _`Python 3 Documentation`: https://docs.python.org/3/
+.. _`Visual Studio Code - Code Editing. Redefined`: https://code.visualstudio.com/
+.. _`Atom`: https://atom.io/
+.. _`Project Jupyter`: https://jupyter.org/
+.. _`Code With Mu`: https://codewith.mu/
+.. _`Python Basics Book – Real Python`: https://realpython.com/products/python-basics-book/
+.. _`Anvil | Python Web Apps`: https://anvil.works/
+.. _`A Brief Tour through Pyodide - Iodide`: https://alpha.iodide.io/notebooks/300/
+.. _`Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books`: https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008
+.. _`Effective Python › The Book`: https://effectivepython.com/
+.. _`python-idioms-2014-01-16.pdf`: http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
+.. _`Python 101: Sets - Scrimba Tutorial`: https://scrimba.com/p/pRB9Hw/cWQweVT2
+.. _`Online courses from Raspberry Pi Foundation`: https://www.futurelearn.com/partners/raspberry-pi
+.. _`regex - Adding double quotes to string is giving me incorrect data in Python - Stack Overflow`: https://stackoverflow.com/questions/58191318/adding-double-quotes-to-string-is-giving-me-incorrect-data-in-python
+.. _`Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution`: http://pythontutor.com/
+.. _`Grok Learning | Learn to code from your browser`: https://groklearning.com/
+.. _`Projects | Raspberry Pi Projects`: https://projects.raspberrypi.org/en/
+.. _`PyBites – Code Challenge 63 - Automatically Generate Blog Featured Images`: https://pybit.es/codechallenge63.html
+.. _`The Ultimate Code Kata`: https://blog.codinghorror.com/the-ultimate-code-kata/
+.. _`Welcome to Pygame Zero — Pygame Zero 1.2 documentation`: https://pygame-zero.readthedocs.io/en/stable/
 
 
 Conferences
