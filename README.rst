@@ -193,7 +193,8 @@ URLs
 ====
 
 These are the tabs that were opened on my laptop during the October 2019
-Campug Meeting:
+Campug Meeting (thanks, Ben, for thinking to do that - it never occurred to
+me!):
 
 
 * `PyCon UK - YouTube`_
