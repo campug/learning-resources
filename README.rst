@@ -108,10 +108,10 @@ fold them into some sensible text.
 Ben, like many of us, needs a *purpose* to learn something like Python. He
 finds programming challenges very useful - for instance:
 
-* Python Challenge
-* Project Euler - not Python specific, mathematics based, problems at many
+* `The Python Challenge`_
+* `Project Euler`_ - not Python specific, mathematics based, problems at many
   different skill levels
-* Advent of Code - every December. Again, not Python specific
+* `Advent of Code`_ - every December. Again, not Python specific
 
 Someone asked about how to improve the performance of Python programs. This
 depends a bit on what sort of program it is, but answers included:
@@ -132,57 +132,63 @@ __ https://www.amazon.co.uk/High-Performance-Python-Performant-Programming/dp/14
 Some discussion of editors:
 
 * Spyder, which comes with anaconda
-* VS Code - which is apparently beginning to be numpy aware. <ref the blog>
-* PyCharm - the communit edition is very good, but if you want to do serious
+* VS Code (`Visual Studio Code`_) - which is apparently beginning to be numpy
+  aware. <ref their blog as well>
+* PyCharm - the community edition is very good, but if you want to do serious
   Django work then the extra Django support in the paid version is apparentl
   worth it. <ref the blog>
-* mu - I always recommend this for pair programming at CamPUG, as it saves
+* Mu (`Code with Mu`_) - I always recommend this for pair programming at CamPUG, as it saves
   discussion of what editor to use, and concentrates the mind on programming
   rather than clever editor tricks.
 
 Online coding environments:
   
-* https://trinket.io/ - online education framework - code in the browser
+* `Trinket`_ - an online education framework - code in the browser
 * https://repl.it/ - a bit more advanced
 * https://glitch.com/@python - Python at https://glitch.com/. Collaborative
   coding.
-* https://alpha.iodide.io - iodide
-* anvil.works
+* https://alpha.iodide.io - `A Brief Tour through Pyodide`_
+* `Anvil`_
 * scrimba - a live programming environment you use while watching videos
 
 Online resources and books:
   
 * realpython.com - videos, beginner up to advanced, and there's a good book,
-  "Python Basics Book". (I've definitely found some very useful articles from
-  this resource).
+  the `Python Basics Book`_. (I've definitely found some very useful articles
+  from this resource).
 * Automate the Hard Things - I've heard good things about this as a way into
   Python
-* Fluent Python - several of us think this is more a second book, for reading
+* "Fluent Python: Clear, Concise, and Effective Programming" by Luciano
+  Ramalho - several of us think this is more a second book, for reading
   once you're fairly fluent, but it is invaluable if you like deep dives into
-  how things work and why, and how to use them.
-* Effective Python - ?
-* Python Idioms - by Safe, one of the original CamPUG founders
+  how things work and why, and how to use them. `Fluent Python on amazon.co.uk`_
+* `Effective Python`_
+* `Python Idioms (2014)`_ - by Safe, one of the original CamPUG founders
 
 Other ideas:
 
 * volunteering on StackOverflow
 
-* pythontutor.com - "especially great for learning recursion"
+* `Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution`_
+   "especially great for learning recursion"
 
-* groklearning.com
+* `Grok Learning | Learn to code from your browser`_
 
-* The Raspberry Py Foundation
+* The Raspberry Py Foundation:
+  `Online courses from Raspberry Pi Foundation`_ and
+  `Raspberry Pi Projects`_
 
 * futurelearn.com
 
-* pybit.es
+* `PyBites`_ - for instance, `PyBites – Code Challenge 63 - Automatically
+  Generate Blog Featured Images`_
 
 * The Python London dojo
 
 * Let's not forget the Cambridge PyData meetup, last Wednesday of the month,
   same venue.
 
-* Pygame zero, and the yearly pygame competition
+* `Pygame Zero`_, and the yearly PyGame competition
 
 * "Everything you want to know about functions" (talk at PyCon UK)
 
@@ -194,66 +200,41 @@ URLs
 
 These are the tabs that were opened on my laptop during the October 2019
 Campug Meeting (thanks, Ben, for thinking to do that - it never occurred to
-me!):
+me!) that have not yet been incorporated into the text above:
 
-
-* `PyCon UK - YouTube`_
-* `pyconuk2019-notes/old-slides.rst at master · tibs/pyconuk2019-notes`_
-* `PyCon UK 2019 : Schedule`_
-* `The Python Challenge`_
-* `Trinket`_
-* `About - Project Euler`_
-* `Advent of Code 2018`_
 * `Python 3 Documentation`_
-* `Visual Studio Code - Code Editing. Redefined`_
 * `Atom`_
 * `Project Jupyter`_
-* `Code With Mu`_
-* `Python Basics Book – Real Python`_
-* `Anvil | Python Web Apps`_
-* `A Brief Tour through Pyodide - Iodide`_
-* `Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books`_
-* `Effective Python › The Book`_
-* `python-idioms-2014-01-16.pdf`_
 * `Python 101: Sets - Scrimba Tutorial`_
-* `Online courses from Raspberry Pi Foundation`_
 * `regex - Adding double quotes to string is giving me incorrect data in Python - Stack Overflow`_
-* `Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution`_
-* `Grok Learning | Learn to code from your browser`_
-* `Projects | Raspberry Pi Projects`_
-* `PyBites – Code Challenge 63 - Automatically Generate Blog Featured Images`_
 * `The Ultimate Code Kata`_
-* `Welcome to Pygame Zero — Pygame Zero 1.2 documentation`_
 
-
-
-.. _`PyCon UK - YouTube`: https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog
-.. _`pyconuk2019-notes/old-slides.rst at master · tibs/pyconuk2019-notes`: https://github.com/tibs/pyconuk2019-notes/blob/master/old-slides.rst
-.. _`PyCon UK 2019 : Schedule`: https://pretalx.com/pyconuk-2019/schedule/
 .. _`The Python Challenge`: http://www.pythonchallenge.com/
 .. _`Trinket`: https://trinket.io/
-.. _`About - Project Euler`: https://projecteuler.net/
-.. _`Advent of Code 2018`: https://adventofcode.com/
+.. _`Project Euler`: https://projecteuler.net/
+.. _`Advent of Code`: https://adventofcode.com/
 .. _`Python 3 Documentation`: https://docs.python.org/3/
-.. _`Visual Studio Code - Code Editing. Redefined`: https://code.visualstudio.com/
+.. _`Visual Studio Code`: https://code.visualstudio.com/
 .. _`Atom`: https://atom.io/
 .. _`Project Jupyter`: https://jupyter.org/
 .. _`Code With Mu`: https://codewith.mu/
-.. _`Python Basics Book – Real Python`: https://realpython.com/products/python-basics-book/
-.. _`Anvil | Python Web Apps`: https://anvil.works/
-.. _`A Brief Tour through Pyodide - Iodide`: https://alpha.iodide.io/notebooks/300/
-.. _`Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books`: https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008
-.. _`Effective Python › The Book`: https://effectivepython.com/
-.. _`python-idioms-2014-01-16.pdf`: http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
+.. _`Python Basics Book`: https://realpython.com/products/python-basics-book/
+.. _`Anvil`: https://anvil.works/
+.. _`A Brief Tour through Pyodide`: https://alpha.iodide.io/notebooks/300/
+.. _`Fluent Python on amazon.co.uk`:
+     https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008
+.. _`Effective Python`: https://effectivepython.com/
+.. _`python idioms (2014)`: http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
 .. _`Python 101: Sets - Scrimba Tutorial`: https://scrimba.com/p/pRB9Hw/cWQweVT2
 .. _`Online courses from Raspberry Pi Foundation`: https://www.futurelearn.com/partners/raspberry-pi
 .. _`regex - Adding double quotes to string is giving me incorrect data in Python - Stack Overflow`: https://stackoverflow.com/questions/58191318/adding-double-quotes-to-string-is-giving-me-incorrect-data-in-python
 .. _`Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution`: http://pythontutor.com/
 .. _`Grok Learning | Learn to code from your browser`: https://groklearning.com/
-.. _`Projects | Raspberry Pi Projects`: https://projects.raspberrypi.org/en/
+.. _`Raspberry Pi Projects`: https://projects.raspberrypi.org/en/
+.. _`PyBites`: https://pybit.es/
 .. _`PyBites – Code Challenge 63 - Automatically Generate Blog Featured Images`: https://pybit.es/codechallenge63.html
 .. _`The Ultimate Code Kata`: https://blog.codinghorror.com/the-ultimate-code-kata/
-.. _`Welcome to Pygame Zero — Pygame Zero 1.2 documentation`: https://pygame-zero.readthedocs.io/en/stable/
+.. _`Pygame Zero`: https://pygame-zero.readthedocs.io/en/stable/
 
 
 Conferences

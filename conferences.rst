@@ -4,6 +4,10 @@ Notes about conferences
 
 Tibs' notes on PyCon UK 2019 are at https://github.com/tibs/pyconuk2019-notes
 
+Most of the talks (if not all) are available on YouTube_.
+
+.. _YouTube: https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog
+
 So why go to a conference?
 ==========================
 
