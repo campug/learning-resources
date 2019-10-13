@@ -24,6 +24,10 @@ notes and the comments and suggestions from that meeting.
 **Note:** Where this page says "I" it means "Tibs", and where it says "we" or
 lapses into the passive voice, it may mean information from CamPUG members.
 
+**Important:** Need to highlight which resources are most useful to people
+with less experience, and which are aimed at people who already know how to
+program and want to learn Python.
+
 ----------------------------
 
 Tibs' original notes
