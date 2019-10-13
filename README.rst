@@ -7,14 +7,29 @@ Python Learning Resources
 Introduction
 ============
 
-...
+Occasionally I am asked for advice on how to learn Python, or to get better at
+Python programming. I've always felt that I'm not necessarily best placed to
+answer this question, as I learnt Python a long time ago, and there are many
+resources available now that were not even thought of then.
 
+Part of the `October 2019`_ CamPUG_ meeting was given over to a discussion of
+Python learning resources. This page is meant to fold together my original
+notes and the comments and suggestions from that meeting.
+
+-- Tibs
+
+.. _`October 2019`: https://www.meetup.com/CamPUG/events/265064979/
+.. _CamPUG: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+.. note:: Where this page says "I" it means "Tibs", and where it says "we" or
+          lapses into the passive voice, it may means information from CamPUG
+          members.
 
 Tibs' original notes
 ====================
 
 **This is a form of the text that Tibs has been using when asked how to learn
-Python.**
+Python.** NB: bits of this are gradually being moved into the rest of the text.
 
 Whilst I’m not sure how useful I can be with recomendations on learning
 Python, since (a) I did it myself so long ago and since then have “grown with
