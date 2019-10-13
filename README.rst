@@ -105,10 +105,34 @@ reasonable to carry on with the same editor for Python. However, you may also
 want to explore an IDE (`Integrated Development Environment`_), an editing
 environment specifically tailored to programming.
 
-If you're new to programming, in Python or anything else, and IDE can be very
-helpful.
+If you're new to programming, then I recommend the Mu_ editor.  Mu is a Python
+code editor for beginner programmers based on extensive feedback given by
+teachers and learners. As such, its core beliefs are:
 
-The two best known Python IDEs, and the ones I tend to recommend, are:
+  - Less is More: Mu has only the most essential features, so users are not
+    intimidated by a baffling interface.
+  - Tread the Path of Least Resistance: Whatever the task, there is always
+    only one obvious way to do it with Mu.
+  - Keep it Simple: It's quick and easy to learn Mu ~ complexity impedes a
+    novice programmer's first steps.
+  - Have fun! Learning should inspire fun ~ Mu helps learners quickly create
+    and test working code.
+
+It also makes it very easy to send Python programs to things like the BBC
+`micro:bit`_ and Adafruit_ boards that run CircuitPython_
+
+.. _`micro:bit`: http://microbit.org/
+.. _Adafruit: https://adafruit.com/
+.. _CircuitPython: https://learn.adafruit.com/welcome-to-circuitpython/overview
+
+There are tutorials for how to use Mu at https://codewith.mu/en/tutorials/.
+
+I recommend Mu for pair programming at CamPUG, as it saves discussion of
+what editor to use, and concentrates the mind on programming rather than
+clever editor tricks.
+
+If you're wanting something more sophisticated than Mu, then the two best
+known Python IDEs, and the ones I tend to recommend, are:
 
 * VS Code (`Visual Studio Code`_) from Microsoft.
   - which is apparently beginning to be numpy
@@ -130,31 +154,20 @@ Note:
 .. _PyCharm: https://www.jetbrains.com/pycharm/
 .. _Spyder: https://www.spyder-ide.org/
 .. _anaconda: https://www.anaconda.com/distribution/
+.. _Atom: https://atom.io/
 
 At the October 2019 CamPUG meeting on learning resources, mention was also
 made of Spyder_, which is distributed as part of the Anaconda_ Python
 distribution. This is an IDE aimed at scientific users.
 
-Last but very much not least, there is Mu (`Code with Mu`_).  Mu is a Python
-code editor for beginner programmers based on extensive feedback given by
-teachers and learners. As such, its core beliefs are:
+There is also Atom_, which is a free editor developed by GitHub. This is a
+more general text editor that has optional support for many programming
+languages, including Python.
 
-  - Less is More: Mu has only the most essential features, so users are not
-    intimidated by a baffling interface.
-  - Tread the Path of Least Resistance: Whatever the task, there is always
-    only one obvious way to do it with Mu.
-  - Keep it Simple: It's quick and easy to learn Mu ~ complexity impedes a
-    novice programmer's first steps.
-  - Have fun! Learning should inspire fun ~ Mu helps learners quickly create
-    and test working code.
-
-I recommend Mu for pair programming at CamPUG, as it saves discussion of
-what editor to use, and concentrates the mind on programming rather than
-clever editor tricks.
 
 Online coding environments
 --------------------------
-  
+
 * `Trinket`_ - an online education framework - code in the browser
 * https://repl.it/ - a bit more advanced
 * https://glitch.com/@python - Python at https://glitch.com/. Collaborative
@@ -162,6 +175,29 @@ Online coding environments
 * https://alpha.iodide.io - `A Brief Tour through Pyodide`_
 * `Anvil`_
 * scrimba - a live programming environment you use while watching videos
+
+And also
+--------
+
+Quoting the `Moving on from Mu`_ page, `Jupyter Notebooks`_ are an amazing way
+to create an interactive narrative with code, multi-media and traditional
+prose.
+
+Jupyter notebooks can be used as a way of mixing notes (in markdown) and
+Pythod code, with the results of running that code. This idea is very much
+based on lab notebooks, where text, calculations and graphs would all be
+written down. Only here, the calcualtions and graphs (and other things) can be
+generated live from the results of running Python code.
+
+(Also, Python is not the only programming language supported, so this is a
+useful technology to use whatever programming language you may be using.)
+
+There is at least one `gallery of interesting Jupyter notebooks`_ out there.
+
+.. _`Jupyter Notebooks`: https://jupyter.org/
+.. _`Moving on from Mu`: https://codewith.mu/en/tutorials/1.0/moving-on
+.. _`gallery of interesting Jupyter notebooks`:
+    https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
 Notes from the October 2019 CamPUG meeting
 ==========================================
@@ -247,7 +283,6 @@ me!) that have not yet been incorporated into the text above:
 
 * `Python 3 Documentation`_
 * `Atom`_
-* `Project Jupyter`_
 * `Python 101: Sets - Scrimba Tutorial`_
 * `regex - Adding double quotes to string is giving me incorrect data in Python - Stack Overflow`_
 * `The Ultimate Code Kata`_
@@ -260,7 +295,7 @@ me!) that have not yet been incorporated into the text above:
 .. _`Visual Studio Code`: https://code.visualstudio.com/
 .. _`Atom`: https://atom.io/
 .. _`Project Jupyter`: https://jupyter.org/
-.. _`Code With Mu`: https://codewith.mu/
+.. _Mu: https://codewith.mu/
 .. _`Python Basics Book`: https://realpython.com/products/python-basics-book/
 .. _`Anvil`: https://anvil.works/
 .. _`A Brief Tour through Pyodide`: https://alpha.iodide.io/notebooks/300/
