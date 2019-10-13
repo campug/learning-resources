@@ -22,7 +22,7 @@ notes and the comments and suggestions from that meeting.
 .. _CamPUG: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
 **Note:** Where this page says "I" it means "Tibs", and where it says "we" or
- lapses into the passive voice, it may mean information from CamPUG members.
+lapses into the passive voice, it may mean information from CamPUG members.
 
 ----------------------------
 
