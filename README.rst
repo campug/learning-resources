@@ -21,9 +21,10 @@ notes and the comments and suggestions from that meeting.
 .. _`October 2019`: https://www.meetup.com/CamPUG/events/265064979/
 .. _CamPUG: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
-.. note:: Where this page says "I" it means "Tibs", and where it says "we" or
-          lapses into the passive voice, it may means information from CamPUG
-          members.
+**Note:** Where this page says "I" it means "Tibs", and where it says "we" or
+ lapses into the passive voice, it may mean information from CamPUG members.
+
+----------------------------
 
 Tibs' original notes
 ====================
@@ -105,6 +106,8 @@ line parsing) and a few other things, the HOWTO documents at
 https://docs.python.org/3/howto/index.html are actually a better place to
 start.
 
+----------------------------
+
 Tools to write your programs with
 =================================
 
@@ -169,7 +172,6 @@ Note:
 .. _PyCharm: https://www.jetbrains.com/pycharm/
 .. _Spyder: https://www.spyder-ide.org/
 .. _anaconda: https://www.anaconda.com/distribution/
-.. _Atom: https://atom.io/
 
 At the October 2019 CamPUG meeting on learning resources, mention was also
 made of Spyder_, which is distributed as part of the Anaconda_ Python
@@ -217,8 +219,22 @@ There is at least one `gallery of interesting Jupyter notebooks`_ out there.
 Notes from the October 2019 CamPUG meeting
 ==========================================
 
-This is a transcription of the notes I took at the aforesaid meeting, so I can
-fold them into some sensible text.
+This started as a transcription of the notes I took at the aforesaid meeting,
+so I can fold them into some sensible text.
+
+
+
+
+* `Pygame Zero`_, and the yearly PyGame competition
+
+* "Everything you want to know about functions" (talk at PyCon UK)
+
+* github | satwikkansal | wtfpython
+  
+**Maybe have sections for:**
+
+Puzzles and challenges
+----------------------
 
 Ben, like many of us, needs a *purpose* to learn something like Python. He
 finds programming challenges very useful - for instance:
@@ -228,22 +244,25 @@ finds programming challenges very useful - for instance:
   different skill levels
 * `Advent of Code`_ - every December. Again, not Python specific
 
-Someone asked about how to improve the performance of Python programs. This
-depends a bit on what sort of program it is, but answers included:
+Other ideas:
 
-* Ian Ozsvald and Micha Gorelick, `High Performance Python`_ (also available
-  `at amazon`__, and `there's a new edition coming out in July 2020`__)
+* The yearly PyWeek_ challenge:
 
-* Software Carpentry and Data Carpentry are low cost courses for academics
+  1. Invites entrants to write a game in one week from scratch either as an individual or in a team,
+  2. Is intended to be challenging and fun,
+  3. Will hopefully increase the public body of game tools, code and expertise,
+  4. Will let a lot of people actually finish a game, and
+  5. May inspire new projects (with ready made teams!)
 
-* One of the well known approaches is to use `Cython`_, which gets you closer
-  to the performance of C whilst still writing code in something close to Python.
+.. _PyWeek: https://pyweek.org/
 
-.. _`High Performance Python`: http://shop.oreilly.com/product/0636920028963.do
-__ https://www.amazon.co.uk/High-Performance-Python-Performant-Programming/dp/1449361595
-__ https://www.amazon.co.uk/High-Performance-Python-Performant-Programming/dp/1492055026
-.. _`Cython`: https://cython.org/
+`Koans`_ below
 
+
+Information sources
+-------------------
+- online
+- books
 
 Online resources and books:
   
@@ -261,8 +280,6 @@ Online resources and books:
 
 Other ideas:
 
-* volunteering on StackOverflow
-
 * `Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution`_
    "especially great for learning recursion"
 
@@ -276,18 +293,50 @@ Other ideas:
 
 * `PyBites`_ - for instance, `PyBites – Code Challenge 63 - Automatically
   Generate Blog Featured Images`_
-
-* The Python London dojo
-
-* Let's not forget the Cambridge PyData meetup, last Wednesday of the month,
-  same venue.
-
-* `Pygame Zero`_, and the yearly PyGame competition
-
-* "Everything you want to know about functions" (talk at PyCon UK)
-
-* github | satwikkansal | wtfpython
   
+Online coding courses
+---------------------
+
+
+Meetings
+--------
+
+CamPUG itself.
+
+Cambridge PyData meetup, last Wednesday of the month, same venue as CamPUG.
+
+Raspberry Pi Foundation: Raspberry Jams
+
+PiWars meetings at makespace.
+
+London PyData.
+
+The London Python Code Dojo.
+
+Courses
+-------
+
+
+Other ideas
+-----------
+
+* volunteering on StackOverflow
+
+Someone asked about how to improve the performance of Python programs. This
+depends a bit on what sort of program it is, but answers included:
+
+* Ian Ozsvald and Micha Gorelick, `High Performance Python`_ (also available
+  `at amazon`__, and `there's a new edition coming out in July 2020`__)
+
+* Software Carpentry and Data Carpentry are low cost courses for academics
+
+* One of the well known approaches is to use `Cython`_, which gets you closer
+  to the performance of C whilst still writing code in something close to Python.
+
+.. _`High Performance Python`: http://shop.oreilly.com/product/0636920028963.do
+__ https://www.amazon.co.uk/High-Performance-Python-Performant-Programming/dp/1449361595
+__ https://www.amazon.co.uk/High-Performance-Python-Performant-Programming/dp/1492055026
+.. _`Cython`: https://cython.org/
 
 URLs
 ====
@@ -297,7 +346,6 @@ Campug Meeting (thanks, Ben, for thinking to do that - it never occurred to
 me!) that have not yet been incorporated into the text above:
 
 * `Python 3 Documentation`_
-* `Atom`_
 * `Python 101: Sets - Scrimba Tutorial`_
 * `regex - Adding double quotes to string is giving me incorrect data in Python - Stack Overflow`_
 * `The Ultimate Code Kata`_
@@ -329,6 +377,33 @@ me!) that have not yet been incorporated into the text above:
 .. _`The Ultimate Code Kata`: https://blog.codinghorror.com/the-ultimate-code-kata/
 .. _`Pygame Zero`: https://pygame-zero.readthedocs.io/en/stable/
 
+Koans
+=====
+Probably fold into the section on puzzles?
+
+When I was learning Ruby, I found the `Ruby Koans`_ to be very useful. Their
+goal is to teach the Ruby language, syntax, structure, and some common
+functions and libraries, as well as some of the Ruby culture, and basic
+testing.
+
+Other programming languages have adopted this approach (for instance, see the
+list at `Learn a new programming language today with koans`_), and Python is
+no exception.
+
+One Python example is at https://github.com/gregmalcolm/python_koans - this is
+partly a port of the Ruby koans (where approriate) and partly new material.
+
+The koans at https://github.com/arachnegl/python-koans are intended to be done
+*before* those by Greg Malcolm, as the author says they are meant to be more
+useful to people of a non-programming background.
+
+Note that one can quite often find *solutions* to the koans as well, if you
+really get stuck. And there are other Python koans as well - these were just
+the first ones I found.
+
+.. _`Ruby Koans`: http://www.rubykoans.com/
+.. _`Learn a new programming language today with koans`:
+   https://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans
 
 Conferences
 ===========
