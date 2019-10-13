@@ -90,14 +90,78 @@ line parsing) and a few other things, the HOWTO documents at
 https://docs.python.org/3/howto/index.html are actually a better place to
 start.
 
-If you’re not wedded to any particular editor, then I generally recommend
-either PyCharm or Visual Studio Code as an IDE. I know more about PyCharm, but
-MicroSoft have been putting a *lot* of work into their offering as well. If
-you’re relatively new to Python, and aren’t a dedicated emacs/vim user, then
-an IDE like this can definitely be very helpful. Both have blogs:
-https://blog.jetbrains.com/ (covers PyCharm and their other IDEs) and
-https://blogs.msdn.microsoft.com/pythonengineering/ respectively. For personal
-use, they should both be free.
+Tools to write your programs with
+=================================
+
+Text editors and IDEs
+---------------------
+
+You can use any text editor to work with Python, but it's better to use
+something that at least understands how to indent Python code, and will
+preferably help point out mistakes as you make them.
+
+If you're already using a text editor that does this, then it's perfectly
+reasonable to carry on with the same editor for Python. However, you may also
+want to explore an IDE (`Integrated Development Environment`_), an editing
+environment specifically tailored to programming.
+
+If you're new to programming, in Python or anything else, and IDE can be very
+helpful.
+
+The two best known Python IDEs, and the ones I tend to recommend, are:
+
+* VS Code (`Visual Studio Code`_) from Microsoft.
+  - which is apparently beginning to be numpy
+  aware. <ref their blog as well>
+* PyCharm_ - the community edition is very good, but if you want to do serious
+
+Both have blogs: https://blog.jetbrains.com/ (covers PyCharm and their other
+IDEs) and https://blogs.msdn.microsoft.com/pythonengineering/
+respectively. For personal use, they should both be free.
+
+Note:
+
+* VS Code is apparently beginning to know about how numpy works.
+* The community (free) edition of PyCharm is very good, but apparently if you
+  want to do serious Django work then the extra Django support in the paid
+  version is apparently worth it.
+
+.. _`Integrated Development Environment`: https://en.wikipedia.org/wiki/Integrated_development_environment
+.. _PyCharm: https://www.jetbrains.com/pycharm/
+.. _Spyder: https://www.spyder-ide.org/
+.. _anaconda: https://www.anaconda.com/distribution/
+
+At the October 2019 CamPUG meeting on learning resources, mention was also
+made of Spyder_, which is distributed as part of the Anaconda_ Python
+distribution. This is an IDE aimed at scientific users.
+
+Last but very much not least, there is Mu (`Code with Mu`_).  Mu is a Python
+code editor for beginner programmers based on extensive feedback given by
+teachers and learners. As such, its core beliefs are:
+
+  - Less is More: Mu has only the most essential features, so users are not
+    intimidated by a baffling interface.
+  - Tread the Path of Least Resistance: Whatever the task, there is always
+    only one obvious way to do it with Mu.
+  - Keep it Simple: It's quick and easy to learn Mu ~ complexity impedes a
+    novice programmer's first steps.
+  - Have fun! Learning should inspire fun ~ Mu helps learners quickly create
+    and test working code.
+
+I recommend Mu for pair programming at CamPUG, as it saves discussion of
+what editor to use, and concentrates the mind on programming rather than
+clever editor tricks.
+
+Online coding environments
+--------------------------
+  
+* `Trinket`_ - an online education framework - code in the browser
+* https://repl.it/ - a bit more advanced
+* https://glitch.com/@python - Python at https://glitch.com/. Collaborative
+  coding.
+* https://alpha.iodide.io - `A Brief Tour through Pyodide`_
+* `Anvil`_
+* scrimba - a live programming environment you use while watching videos
 
 Notes from the October 2019 CamPUG meeting
 ==========================================
@@ -129,33 +193,12 @@ __ https://www.amazon.co.uk/High-Performance-Python-Performant-Programming/dp/14
 __ https://www.amazon.co.uk/High-Performance-Python-Performant-Programming/dp/1492055026
 .. _`Cython`: https://cython.org/
 
-Some discussion of editors:
-
-* Spyder, which comes with anaconda
-* VS Code (`Visual Studio Code`_) - which is apparently beginning to be numpy
-  aware. <ref their blog as well>
-* PyCharm - the community edition is very good, but if you want to do serious
-  Django work then the extra Django support in the paid version is apparentl
-  worth it. <ref the blog>
-* Mu (`Code with Mu`_) - I always recommend this for pair programming at CamPUG, as it saves
-  discussion of what editor to use, and concentrates the mind on programming
-  rather than clever editor tricks.
-
-Online coding environments:
-  
-* `Trinket`_ - an online education framework - code in the browser
-* https://repl.it/ - a bit more advanced
-* https://glitch.com/@python - Python at https://glitch.com/. Collaborative
-  coding.
-* https://alpha.iodide.io - `A Brief Tour through Pyodide`_
-* `Anvil`_
-* scrimba - a live programming environment you use while watching videos
 
 Online resources and books:
   
 * realpython.com - videos, beginner up to advanced, and there's a good book,
-  the `Python Basics Book`_. (I've definitely found some very useful articles
-  from this resource).
+  the `Python Basics Book`_. I've definitely found some very useful articles
+  from this resource.
 * Automate the Hard Things - I've heard good things about this as a way into
   Python
 * "Fluent Python: Clear, Concise, and Effective Programming" by Luciano
