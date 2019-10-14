@@ -73,42 +73,7 @@ As places to start, I often recommend:
   comfortable, then this may also be of interest, as an entirely different
   approach. It also uses Jupyter Notebooks, which are worth knowing about.
 
-For interest’s sake, I follow https://www.reddit.com/r/Python/, which
-sometimes has interesting things on it. There’s also
-https://www.reddit.com/r/learnpython which is specifically aimed at beginner
-questions - you’ll have to judge whether the questions and answers there are
-also useful. I assume it’s worth a look, though.
 
-Planet Python https://www.planetpython.org/ is an aggregator of Python related
-articles - there are often introductions to interesting things referenced
-here, so it’s probably worth keeping an eye on (I have it as an RSS feed,
-altthough these days the reddit channel has more that’s directly of interest
-to me - but your mileage may well vary).
-
-https://stackoverflow.com/ can, as ever, be useful, but be sure that the
-answers you’re looking at are for Python 3, and even Python 3.5 or later, or
-they’re not so likely to be of use.
-
-Back in the day (picture doddering old man with a stick and a long white
-beard) I learnt Python by reading the official tutorial, the reference manual
-and the library manual (all at https://www.python.org/doc/). Of course, back
-then there weren’t any other alternatives. I’m not 100% convinced the tutorial
-is such a good point to start any more, but if your mind is that way inclined
-(not everyone is) then the reference manual is interesting, and I definitely
-recommend looking at the first few sections of the library reference
-https://docs.python.org/3/library/index.html (this will give you the
-documentation for the latest version, but you can choose the version you want
-with the selector at the top of the page, and it’s normally fairly good at
-telling you when something new-ish was introduced in the actual body of the
-text).  Hmm - probably Introduction through Built-in Exceptions, and then
-string, datetime, collections, pathlib, os.path and os (yes, those are
-different - blame history), and then it very much depends on what you want to
-do.
-
-If you need to use logging, regular expressions, unicode, argparse (command
-line parsing) and a few other things, the HOWTO documents at
-https://docs.python.org/3/howto/index.html are actually a better place to
-start.
 
 ----------------------------
 
@@ -265,8 +230,29 @@ Other ideas:
 
 Information sources
 -------------------
+- aggregators and suchlike
 - online
 - books
+
+Aggregators and suchlike:
+
+Tibs says:
+
+  For interest’s sake, I follow https://www.reddit.com/r/Python/, which
+  sometimes has interesting things on it. There’s also
+  https://www.reddit.com/r/learnpython which is specifically aimed at beginner
+  questions - you’ll have to judge whether the questions and answers there are
+  also useful. I assume it’s worth a look, though.
+
+  Planet Python https://www.planetpython.org/ is an aggregator of Python related
+  articles - there are often introductions to interesting things referenced
+  here, so it’s probably worth keeping an eye on (I have it as an RSS feed,
+  altthough these days the reddit channel has more that’s directly of interest
+  to me - but your mileage may well vary).
+
+  https://stackoverflow.com/ can, as ever, be useful, but be sure that the
+  answers you’re looking at are for Python 3, and even Python 3.5 or later, or
+  they’re not so likely to be of use.
 
 Online resources and books:
   
@@ -281,6 +267,30 @@ Online resources and books:
   how things work and why, and how to use them. `Fluent Python on amazon.co.uk`_
 * `Effective Python`_
 * `Python Idioms (2014)`_ - by Safe, one of the original CamPUG founders
+
+Don't forget the official `Python 3 documentation`_.
+
+The tutorial is worth re-reading periodically, if only to see what has become
+a part of the "basic" language. It's perhaps not ideal for a first place to
+learn Python from, though. The reference manual is probably only of interest
+if you have the right sort of mind for it (but then it's not really a learning
+document anyway).
+
+Tibs would recommend looking at the
+first few sections of the library reference
+https://docs.python.org/3/library/index.html (this will give you the
+documentation for the latest version, but you can choose the version you want
+with the selector at the top of the page, and it’s normally fairly good at
+telling you when something new-ish was introduced in the actual body of the
+text).  Hmm - probably Introduction through Built-in Exceptions, and then
+string, datetime, collections, pathlib, os.path and os (yes, those are
+different - blame history), and then it very much depends on what you want to
+do.
+
+If you need to use logging, regular expressions, unicode, argparse (command
+line parsing) and a few other things, the HOWTO documents at
+https://docs.python.org/3/howto/index.html are actually a better place to
+start.
 
 Other ideas:
 
@@ -349,7 +359,6 @@ These are the tabs that were opened on my laptop during the October 2019
 Campug Meeting (thanks, Ben, for thinking to do that - it never occurred to
 me!) that have not yet been incorporated into the text above:
 
-* `Python 3 Documentation`_
 * `Python 101: Sets - Scrimba Tutorial`_
 * `regex - Adding double quotes to string is giving me incorrect data in Python - Stack Overflow`_
 * `The Ultimate Code Kata`_
