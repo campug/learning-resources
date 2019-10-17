@@ -155,12 +155,62 @@ Online coding environments
 --------------------------
 
 * `Trinket`_ - an online education framework - code in the browser
-* https://repl.it/ - a bit more advanced
-* https://glitch.com/@python - Python at https://glitch.com/. Collaborative
-  coding.
-* https://alpha.iodide.io - `A Brief Tour through Pyodide`_
-* `Anvil`_
-* scrimba - a live programming environment you use while watching videos
+
+  Trinket lets you edit and run Python code in the browser. There are
+  currently three Python related tutorials on their front page:
+
+  * `From Blocks to Code`_, which lets you program by assembling blocks into
+    programs. This also teaches some basics of Python - in particular, after
+    creating the block programs, you can ask it to show you the equivalent
+    Python code.
+
+  * `A Visual Introduction to Python`_, which uses the Turtle library to draw
+    shapes.
+
+  * `Python for Everybody`_, which is a book to teach the basics of Python3,
+    using trinket dialogues for the examples.
+
+  Trinket also provide `Hour of Python`_, which includes the turtles and
+  blocks sessions, but also a sequence of challenges and specific tutorials.
+  This website also has at least some resources in Spanish, Chinese and Korean.
+
+* scrimba_ - a live programming environment you use while watching videos. The
+  front page says "Scrimba lets you play around with the instructor's code
+  directly inside the screencast. As a result, you'll learn faster and have
+  more fun." If you `search for Python`_ then you find quite a few courses,
+  many of which look suitable for beginners.
+
+* `repl.it`_ gives you an online IDE, including collaborative code editing,
+  for a variety of programming languages, including Python.
+
+* Glitch_ is a collaborative programming environment in the browser that makes
+  it easy to write web apps in a variety of languages, including Python
+  (https://glitch.com/@python)
+
+* Iodide_ lets you create (scientific) notebooks using Python, markdown,
+  Javascript and CSS, entering text in one pane in the browser, and seeing the
+  result alongside. See `A Brief Tour through Pyodide`_ for more information
+  on using it with Python. The project says it is still in alpha, so things
+  may change and break.
+
+  (There's obviously some overlap with the capabilities of sites that provide
+  live Jupyter notebooks, although the style seems rather different.)
+
+* `Anvil`_ lets you write full stack web apps just using Python. That is, both
+  the front end and the back end are both written using Python. There's a
+  drag-and-drop interface for designing the front end. The Anvil team come and
+  give workshops at CamPUG periodically, and can be found at many Python
+  conferences.
+
+.. _`From Blocks to Code`: https://hourofpython.trinket.io/from-blocks-to-code-with-trinket
+.. _`A Visual Introduction to Python`: https://hourofpython.trinket.io/a-visual-introduction-to-python
+.. _`Python for Everybody`: https://books.trinket.io/pfe/
+.. _`Hour of Python`: https://hourofpython.com/
+.. _`repl.it`: https://repl.it/
+.. _`Glitch`: https://glitch.com
+.. _Iodide: https://alpha.iodide.io/
+.. _scrimba: https://scrimba.com/
+.. _`search for Python`: https://scrimba.com/search?q=python
 
 And also
 --------
@@ -335,6 +385,9 @@ Other ideas
 -----------
 
 * volunteering on StackOverflow
+  
+Performance
+-----------
 
 Someone asked about how to improve the performance of Python programs. This
 depends a bit on what sort of program it is, but answers included:
