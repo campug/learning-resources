@@ -217,12 +217,12 @@ Online coding environments
 And also, Jupyter notebooks
 ---------------------------
 
-Quoting the `Moving on from Mu`_ page, `Jupyter Notebooks`_ are an amazing way
+Quoting the `Moving on from Mu`_ page, "`Jupyter Notebooks`_ are an amazing way
 to create an interactive narrative with code, multi-media and traditional
-prose.
+prose".
 
 Jupyter notebooks can be used as a way of mixing notes (in markdown) and
-Pythod code, with the results of running that code. This idea is very much
+Python code, with the results of running that code. This idea is very much
 based on lab notebooks, where text, calculations and graphs would all be
 written down. Only here, the calcualtions and graphs (and other things) can be
 generated live from the results of running Python code.
