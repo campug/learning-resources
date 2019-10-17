@@ -67,13 +67,15 @@ As places to start, I often recommend:
   why you might not want to use Python 3.7 *for this book*. He also has some
   recomemndations for other Python tutorials at the start of that section.
 
-* https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas is a
-  workbook used for an introduction to Python for Part 1A Engineering students
-  at Cambridge University. If you find equations and graph drawing
-  comfortable, then this may also be of interest, as an entirely different
-  approach. It also uses Jupyter Notebooks, which are worth knowing about.
+* `Part IA Computing (Michaelmas)`_ is a Jupyter_ notebook providing a
+  self-study introduction to Python for Part 1A Engineering students at
+  Cambridge University. If you find equations and graph drawing comfortable,
+  then this may also be of interest, as an entirely different approach.
 
+  The source code can be found at
+  https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas.
 
+.. _`Part IA Computing (Michaelmas)`: https://notebooks.azure.com/garth-wells/projects/CUED-IA-Computing-Michaelmas
 
 ----------------------------
 
@@ -212,8 +214,8 @@ Online coding environments
 .. _scrimba: https://scrimba.com/
 .. _`search for Python`: https://scrimba.com/search?q=python
 
-And also
---------
+And also, Jupyter notebooks
+---------------------------
 
 Quoting the `Moving on from Mu`_ page, `Jupyter Notebooks`_ are an amazing way
 to create an interactive narrative with code, multi-media and traditional
@@ -230,10 +232,32 @@ useful technology to use whatever programming language you may be using.)
 
 There is at least one `gallery of interesting Jupyter notebooks`_ out there.
 
+`Try Jupyter`_ lets you try out some tutorial Jupyter notebooks in your
+browser. There are tutorials for several programming languages, including Python.
+
+`Microsoft Azure Notebooks`_ provide online Jupyter notebooks, and host
+various tutorials presented as Jupyter notebooks (including the Cambridge
+Unversity `Part IA Computing (Michaelmas)`_ Python course mentioned
+elsewhere). The Azure Notebooks homepage has links to various featured
+projects and tutorials, and there is an `informal introduction to Python3`_.
+
+CoCalc_ provides an "online computing environment" that supports a variety of
+things, including Python and Jupyter notebooks. They appear to have an
+unlimited free trial, which should be enough to experiment.
+
+There are other places on the web where you can store and interact with
+Jupyter notebooks - this was just a selection.
+
+.. _Jupyter: https://jupyter.org/
 .. _`Jupyter Notebooks`: https://jupyter.org/
 .. _`Moving on from Mu`: https://codewith.mu/en/tutorials/1.0/moving-on
 .. _`gallery of interesting Jupyter notebooks`:
     https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+.. _`Try Jupyter`: https://jupyter.org/try
+.. _`Microsoft Azure Notebooks`: https://notebooks.azure.com/
+.. _`informal introduction to Python3`:
+    https://notebooks.azure.com/Microsoft/projects/2018-Intro-Python/html/Introduction%20to%20Python.ipynb
+.. _CoCalc: https://cocalc.com/
 
 Notes from the October 2019 CamPUG meeting
 ==========================================
