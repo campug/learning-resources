@@ -9,8 +9,8 @@ Introduction
 
 Occasionally I am asked for advice on how to learn Python, or to get better at
 Python programming. I've always felt that I'm not necessarily best placed to
-answer this question, as I learnt Python a long time ago[#], and there are many
-resources available now that were not even thought of then.
+answer this question, as I learnt Python a long time ago [#]_, and there are
+many resources available now that were not even thought of then.
 
 Part of the `October 2019`_ CamPUG_ meeting was given over to a discussion of
 Python learning resources. This page is meant to fold together my original
@@ -375,8 +375,9 @@ Jupyter notebooks - this was just a selection.
 Puzzles and challenges
 ======================
 
-Ben, like many of us, needs a *purpose* to learn something like Python. He
-finds programming challenges very useful - for instance:
+Many people need a *purpose* to learn something like Python. For some people
+this need for a purpose can be satisfied by programming challenges. For
+instance:
 
 * `The Python Challenge`_
 * `Project Euler`_ - not Python specific, mathematics based, problems at many
@@ -464,7 +465,7 @@ if you have the right sort of mind for it (but then it's not really a learning
 document anyway).
 
 Tibs would recommend looking at the first few sections of the library
-reference https://docs.python.org/3/library/index.html[#], probably
+reference https://docs.python.org/3/library/index.html [#]_, probably
 Introduction through Built-in Exceptions, and then the chapters on *string*,
 *datetime*, *collections*, *pathlib*, *os.path* and *os* (yes, those
 last three are different - blame history), and then it very much depends on
@@ -499,8 +500,8 @@ conferences put a lot of their talks up on YouTube. Have a look at
   work out how to find previous years)
 
 Both conferences have talks at all technical levels, as well as talks about
-things that aren't directly to do with programming. Lightning talk[#] sessions
-can be expecially worth watching.
+things that aren't directly to do with programming. Lightning talk [#]_
+sessions can be especially worth watching.
 
 .. [#] Short talks, of less than 5 minutes, on any topic at all.
 
