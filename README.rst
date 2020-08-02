@@ -18,7 +18,8 @@ notes and the comments and suggestions from that meeting.
 
 I'd love comments / contributions - either via pull requests on this document
 on github, by email to me directly (again, via github) or by message via the
-CamPUG_ meetup page.
+CamPUG_ meetup page. Don't worry too much about getting the text formatting
+right - I can always fix that.
 
 -- Tibs
 
